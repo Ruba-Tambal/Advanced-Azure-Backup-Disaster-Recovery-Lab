@@ -317,10 +317,7 @@ This lab simulates enterprise backup operations commonly used in:
 - Regularly test restore procedures
 - Monitor backup alerts continuously
 
----
 
-# 📌 Author
 
-**Contoso Corporation Azure Infrastructure Team**
 
 ```
